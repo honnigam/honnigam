@@ -1,5 +1,4 @@
-
-name: generate datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -24,3 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
