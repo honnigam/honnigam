@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&fontColor=ffffff&height=120&section=header&text=hi%20there&fontSize=50" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&fontColor=ffffff&height=120&section=header&text=hi%20there&fontSize=50&animation=twinkling" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5865f2&size=35&center=true&vCenter=true&width=1000&lines=i'm+Lucas+Barcelos+:%29;i'm+graduated+in+Computer+engineering;i'm+24+years+old;i'm+from+Brazil;be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Unbounded&color=5865f2&size=40&center=true&vCenter=true&width=1000&lines=i'm+Lucas+Barcelos+:%29;i'm+graduated+in+Computer+engineering;i'm+24+years+old;i'm+from+Brazil;be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline-block" align="center"><br>
 <p align="center">
@@ -9,10 +9,14 @@
 </p>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=10000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+working+with+front-end+(html%2C+css%2C+js%2C+frameworks%2C+react%2C+react+native))](https://git.io/typing-svg)
 
-- 🔭 working with front-end (html, css, js, frameworks, react, react native)
-- 🌱 currently i'm perfecting myself in backend
-- 🧑‍💻 the technologies i am learning is python, R and datascience
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=30000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A7%A0+i'm+currently+perfecting+my+backend)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=45000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A4%96+the+technologies+i+am+learning+is+python%2C+R+and+datascience)](https://git.io/typing-svg)
+
+
 - 🖥️ <a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  / <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
