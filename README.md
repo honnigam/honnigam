@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&fontColor=ffffff&height=120&section=header&text=hi%20there&fontSize=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5865f2&size=35&center=true&vCenter=true&width=1000&lines=hi+there,+i'm+Lucas+Barcelos+:%29;i'm+24+years+old;i'm+from+Brazil;i'm+graduated+in+Computer+engineering;be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5865f2&size=35&center=true&vCenter=true&width=1000&lines=i'm+Lucas+Barcelos+:%29;i'm+graduated+in+Computer+engineering;i'm+24+years+old;i'm+from+Brazil;be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline-block" align="center"><br>
 <p align="center">
@@ -46,4 +47,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&height=120&section=footer"/>
