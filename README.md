@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5865f2&size=35&center=true&vCenter=true&width=1000&lines=hi+there,+i'm+Lucas+Barcelos+:%29;i'm+24+years+old;i'm+from+Brazil;i'm+graduated+in+Computer+engineering;be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div style="display: inline_block" align="center"><br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=honnigam&theme=discord&column=7"/>
 </p>
-
+</div>
 
 
 - 🔭 working with front-end (html, css, js, frameworks, react, react native)
