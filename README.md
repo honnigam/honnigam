@@ -1,5 +1,6 @@
-### olá! im like writing in english e português 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&vCenter=true&width=1000&lines=hi+there,+i'm+Lucas+Barcelos+:%29;i'm+24+years+old;i'm+from+Brazil;i'm+graduated+in+Computer+engineering;be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 diariamente trabalho com front-end (html, css, js, frameworks, react, react native)
 - 🌱 atualmente estou me aprofundando em back-end
@@ -31,4 +32,9 @@
   
 ![Snake animation](https://github.com/honnigam/honnigam/blob/output/github-contribution-grid-snake.svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=honnigam&bg_color=22272e&color=737373&line=ffffff&point=0969da&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=footer"/>
