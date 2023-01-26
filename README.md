@@ -1,7 +1,7 @@
 ### olá! im like writing in english e português 😁
 
 
-- 🔭 diariamente trabalho com front-end (html, css, js, frameworks)
+- 🔭 diariamente trabalho com front-end (html, css, js, frameworks, react, react native)
 - 🌱 atualmente estou me aprofundando em back-end
 - 🧑‍💻 as tecnologias que estou aprendendo é python e datascience
 - ✉️ me contate por <a href = "mailto:lucasvm87@gmail.com">e-mail</a>
