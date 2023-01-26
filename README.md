@@ -12,9 +12,8 @@
 - 🔭 working with front-end (html, css, js, frameworks, react, react native)
 - 🌱 currently i'm perfecting myself in backend
 - 🧑‍💻 the technologies i am learning is python, R and datascience
-- ✉ <a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 🖥️ <a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  / <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-- 😄 he/his
 
  <div>
   <a href="https://github.com/honnigam">
