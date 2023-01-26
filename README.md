@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&fontColor=ffffff&height=120&section=header&text=hi%20there&fontSize=50&animation=twinkling" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Unbounded&color=5865f2&size=40&center=true&vCenter=true&width=1000&lines=i'm+Lucas+Barcelos+:%29;i'm+graduated+in+Computer+engineering;i'm+24+years+old;i'm+from+Brazil;be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Lobster&color=5865f2&size=40&center=true&vCenter=true&width=1000&lines=i'm+Lucas+Barcelos+:%29;i'm+graduated+in+Computer+engineering;i'm+24+years+old;i'm+from+Brazil;be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline-block" align="center"><br>
 <p align="center">
@@ -16,8 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=20000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A4%96+the+technologies+i+am+learning+is+python%2C+R+and+datascience)](https://git.io/typing-svg)
 
-
-- 🖥️ <a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=15&duration=10000&pause=1000&color=DADADA&width=180&lines=-+%F0%9F%93%B2+contact+me+)](https://git.io/typing-svg)<a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  / <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div>
@@ -41,8 +40,6 @@
 
   <a href="https://instagram.com/barceloslucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/alceurp_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/honnigam/honnigam/blob/output/github-contribution-grid-snake.svg)
 
@@ -51,4 +48,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&height=120&&fontColor=ffffff&text=enjoy&fontSize=30&animation=blinking&section=footer"/>
