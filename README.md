@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=20000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A4%96+the+technologies+i+am+learning+is+python%2C+R+and+datascience)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=6000&pause=1000&color=F7F7F7&width=1000&lines=-+%F0%9F%93%B2+contact+me+)](https://git.io/typing-svg)<a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=16&duration=6000&pause=1000&color=F7F7F7&width=1000&lines=-+%F0%9F%93%B2+contact+me+)](https://git.io/typing-svg)<a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  / <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div>
