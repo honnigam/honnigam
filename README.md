@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=honnigam)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c400ff,50:0a00da,100:c400ff&fontColor=ffffff&height=120&section=header&text=hi%20there&fontSize=50&animation=twinkling" />
 
 
