@@ -23,7 +23,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
 
-  <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernets/kubernets-original.svg">
+  <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernets/kubernetes-plain-wordmark.svg">
   <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="honnigam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
