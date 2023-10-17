@@ -11,13 +11,6 @@
 </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=10000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+working+with+front-end+(html%2C+css%2C+js%2C+angular%2C+react%2C+react+native%2C+libs))](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=15000&pause=500&color=F7F7F7&width=600&lines=-+%F0%9F%A7%A0+i'm+currently+perfecting+my+backend)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=20000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A4%96+the+technologies+i+am+learning+is+python%2C+R+and+datascience)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=22&duration=6000&pause=1000&color=F7F7F7&width=1000&lines=-+%F0%9F%93%B2+contact+me+)](https://git.io/typing-svg)<a href = "mailto:lucasvm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  / <a href="https://www.linkedin.com/in/lucas-ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
