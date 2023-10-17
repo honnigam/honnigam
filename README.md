@@ -22,7 +22,9 @@
   <img align="center" width="420px" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honnigam&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <div style="display: inline_block" align="center"><br>
+
  
+  <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="honnigam-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="honnigam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="honnigam-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
