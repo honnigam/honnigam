@@ -42,11 +42,10 @@
 <div>
 
   <a href="https://instagram.com/barceloslucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/alceurp_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/honnigam/honnigam/blob/output/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=honnigam&bg_color=22272e&color=5865f2&line=ffffff&point=5865f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=honnigam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
