@@ -42,9 +42,8 @@
 <div>
 
   <a href="https://instagram.com/barceloslucas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/honnigam/honnigam/blob/output/github-contribution-grid-snake.svg)
 
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=honnigam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
